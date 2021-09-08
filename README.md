@@ -59,6 +59,12 @@ This learning path is intended for everyone who wants to learn data science and 
 2. DBSCAN
 3. Hierarchical Clustering
 
+- Artificial Neural Network
+1. Backpropagation
+2. Feed Forward Neural Network
+3. Multi Layer Perceptron
+
+
 ## Evaluation Metrics
 
 - Supervised Learning
