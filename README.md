@@ -60,9 +60,9 @@ This learning path is intended for everyone who wants to learn data science and 
 3. Hierarchical Clustering
 
 - Artificial Neural Network
-1. Backpropagation
-2. Feed Forward Neural Network
-3. Multi Layer Perceptron
+1. Feed Forward Neural Network
+2. Multi Layer Perceptron
+3. Backpropagation
 
 
 ## Evaluation Metrics
@@ -133,3 +133,4 @@ This learning path is intended for everyone who wants to learn data science and 
 1. [Practical Deep Learning for Coders](https://course.fast.ai/)
 2. [Dive Into Deep Learning](http://d2l.ai/index.html)
 2. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+3. [Deep Learning with Python] (https://livebook.manning.com/book/deep-learning-with-python/list-of-figures/1)
